@@ -1,0 +1,15 @@
+.calender .rdp-caption_label {
+    font-size: "14px !important"; /* Font size for the caption labels. */
+    margin: "0em !important";
+  }
+
+.calender .rdp-nav_button{
+    width: 20px !important;
+    height: 20px !important;
+} 
+
+.calender .rdp-weeknumber,
+.rdp-day {
+  width:20px !important;
+  max-width: 20px !important;
+}
